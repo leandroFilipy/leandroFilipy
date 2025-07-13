@@ -13,7 +13,7 @@
 
 - 📄 Saiba Sobre minhas experiências: Java, JavaSwing, CSS, HTML, Lua
 
-- ⚡Fatos sobre mim **Jogador profissional de Clash Royale**
+- ⚡Fatos sobre mim **Atualmente solteiro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +22,6 @@
   </a>
   <a href="https://wa.me/5547933008646" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-  <a href="mailto:loboofs2000@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
