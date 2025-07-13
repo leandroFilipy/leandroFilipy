@@ -9,9 +9,9 @@
 
 - 💬 Me Pergunte sobre: **JavaSwing**
 
-- 📫 Como entrar em contato: **leandro_f_lima@estudante.sesisenai.org.br**
+- 📫 Como entrar em contato: **loboofs2000@gmail.com**
 
-- 📄 Saiba Sobre minhas experiências: [Java, JavaSwing, CSS, HTML, Lua](Java, JavaSwing, CSS, HTML, Lua)
+- 📄 Saiba Sobre minhas experiências: Java, JavaSwing, CSS, HTML, Lua
 
 - ⚡Fatos sobre mim **Atualmente solteiro**
 
@@ -23,7 +23,7 @@
   <a href="https://wa.me/5547933008646" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
-  <a href="mailto:leandro_f_lima@estudante.sesisenai.org.br" target="_blank">
+  <a href="mailto:loboofs2000@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
