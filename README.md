@@ -13,7 +13,7 @@
 
 - 📄 Saiba Sobre minhas experiências: Java, JavaSwing, CSS, HTML, Lua
 
-- ⚡Fatos sobre mim **Atualmente solteiro**
+- ⚡Fatos sobre mim **Jogador profissional de Clash Royale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
