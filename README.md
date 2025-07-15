@@ -13,7 +13,6 @@
 
 - 📄 Saiba Sobre minhas experiências: Java, JavaSwing, CSS, HTML, Lua
 
-- ⚡Fatos sobre mim **Aprendendo Russo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
