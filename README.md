@@ -9,7 +9,7 @@
 
 - 💬 Me Pergunte sobre: **JavaSwing**
 
-- 📫 Como entrar em contato: **loboofs2000@gmail.com**
+- 📫 Como entrar em contato: **leandro_f_lima@gmail.com**
 
 - 📄 Saiba Sobre minhas experiências: Java, JavaSwing, CSS, HTML, Lua
 
