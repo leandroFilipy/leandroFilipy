@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrofilipy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandrofilipy)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=vercel&logoColor=white)](https://leandrofilipy.dev](https://leandrofilipy.github.io/meu-site/))
 
 ---
 
