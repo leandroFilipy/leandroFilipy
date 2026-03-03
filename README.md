@@ -3,7 +3,11 @@
 # ⚡ SYSTEM ARCHITECT: LEANDRO FILIPY ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=LEANDRO%20FILIPY&fontSize=80&fontAlignY=35&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20//%20PROBLEM%20SOLVER&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,000000,152238,00b4d8,000000&height=280&section=header&text=LEANDRO%20FILIPY&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=SYSTEM%20ARCHITECT%20|%20FULL%20STACK%20EXPERT&descAlignY=55&descAlign=50" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=500&lines=Building+scalable+ecosystems...;Turning+caffeine+into+clean+code...;Stack:+React,+Node,+Docker,+AWS;Status:+Searching+for+the+next+challenge" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrofilipy/)
@@ -51,5 +55,12 @@
 
 <br/>
 
-```terminal
-$sudo apt-get install innovation$ status: leandro_filipy --ready-to-build
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B11&center=true&vCenter=true&width=435&lines=Initialising+Innovation...;Deploying+Code+to+Production...;System.status+%3D+'Awesome';_>+LeandroFilipy" alt="Typing SVG" />
+</div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=leandroFilipy&color=ff4b11&style=flat-square&label=ACCESS_LOG" />
+
+</div>
