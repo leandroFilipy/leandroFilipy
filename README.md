@@ -1,7 +1,5 @@
 <div align="center">
 
-# ⚡ SYSTEM ARCHITECT: LEANDRO FILIPY ⚡
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,000000,152238,00b4d8,000000&height=280&section=header&text=LEANDRO%20FILIPY&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=SYSTEM%20ARCHITECT%20|%20FULL%20STACK%20EXPERT&descAlignY=55&descAlign=50" width="100%"/>
 </p>
@@ -12,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrofilipy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandrofilipy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=vercel&logoColor=white)](https://leandrofilipy.dev)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=vercel&logoColor=white)](https://leandrofilipy.dev](https://leandrofilipy.github.io/meu-site/))
 
 ---
 
