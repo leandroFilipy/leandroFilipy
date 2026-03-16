@@ -45,7 +45,7 @@
       <td align="left" style="padding-top: 20px;">
         <strong>◈ HARDWARE_AND_NETWORK</strong><br>
         <img src="https://skillicons.dev/icons?i=arduino,figma,postman&theme=dark" />
-        <img src="https://img.shields.io/badge/PacketTracer-000000?style=flat&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cisco-00b4d8?style=for-the-badge&logo=cisco&logoColor=white" />
       </td>
     </tr>
   </table>
