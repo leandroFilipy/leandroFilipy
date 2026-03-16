@@ -30,7 +30,7 @@
     <tr>
       <td align="left" style="padding-right: 40px;">
         <strong>◈ FRONTEND_CORE</strong><br>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" />
       </td>
       <td align="left">
         <strong>◈ BACKEND_AND_SYSTEMS</strong><br>
@@ -45,7 +45,7 @@
       <td align="left" style="padding-top: 20px;">
         <strong>◈ HARDWARE_AND_NETWORK</strong><br>
         <img src="https://skillicons.dev/icons?i=arduino,figma,postman&theme=dark" />
-        <img src="https://img.shields.io/badge/Cisco-00b4d8?style=for-the-badge&logo=cisco&logoColor=white" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" style="vertical-align: middle; padding-left: 10px;" />
       </td>
     </tr>
   </table>
